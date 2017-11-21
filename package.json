@@ -1,0 +1,14 @@
+{
+  "name": "ros_repbot",
+  "version": "1.0.0",
+  "description": "ROS interface to a REPBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ZQ Yeo",
+  "license": "MIT",
+  "dependencies": {
+    "rosnodejs": "^2.1.1"
+  }
+}

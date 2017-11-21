@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_repbot</name>
+  <version>0.0.0</version>
+  <description>The ros_repbot package</description>
+
+  <maintainer email="zhiquan.yeo@gmail.com">ZQ Yeo</maintainer>
+  <license>MIT</license>
+
+
+  <!-- Url tags are optional, but multiple are allowed, one per tag -->
+  <!-- Optional attribute type can be: website, bugtracker, or repository -->
+  <!-- Example: -->
+  <!-- <url type="website">http://wiki.ros.org/ros_repbot</url> -->
+  <author email="zhiquan.yeo@gmail.com">ZQ Yeo</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>std_msgs</depend>
+
+</package>
