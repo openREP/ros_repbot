@@ -4,7 +4,7 @@
   "description": "ROS interface to a REPBot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node runner.js"
   },
   "author": "ZQ Yeo",
   "license": "MIT",

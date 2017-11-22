@@ -12,6 +12,6 @@ catkin_package()
 ## Install ##
 #############
 install(PROGRAMS
-    index.js
+    runner.js
     DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
