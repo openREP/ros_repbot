@@ -9,7 +9,9 @@
   "author": "ZQ Yeo",
   "license": "MIT",
   "dependencies": {
+    "@ftl-robots/ftl-robot-host": "^1.1.0",
     "command-line-args": "^4.0.7",
+    "promise": "^8.0.1",
     "rosnodejs": "^2.1.1",
     "winston": "^2.4.0"
   }
